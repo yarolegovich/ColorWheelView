@@ -2,7 +2,9 @@
 
 An example implementation of a color wheel using [`Paint` shaders](https://developer.android.com/reference/android/graphics/Shader.html).
 
-This repository contains code for [this article on Medium](https://medium.com/@yarolegovich/color-wheel-efficient-drawing-with-shaders-aa11c0f6e46c).
+[Jump to source](https://github.com/yarolegovich/ColorWheelView/blob/master/app/src/main/java/com/yarolegovich/colorwheelshader/ColorWheelView.java).
+
+The repository contains code for [this article on Medium](https://medium.com/@yarolegovich/color-wheel-efficient-drawing-with-shaders-aa11c0f6e46c).
 
 [Preview video](https://www.youtube.com/watch?v=1859TTIukdk).
 
